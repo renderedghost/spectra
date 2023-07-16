@@ -1,0 +1,16 @@
+{
+  "name": "Spectra",
+  "id": "1262494907120909118",
+  "api": "1.0.0",
+  "main": "app.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
